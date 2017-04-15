@@ -8,9 +8,9 @@ namespace _2002218775
 {
     class Propietario
     {
-        public string DNI;
-        public string Nombres;
-        public string Apellidos;
-        public string LicenciaConducir;
+        public string DNI { set; get; }
+        public string Nombres { set; get; }
+        public string Aellidos { set; get; }
+        public string LicenciaConducir { set; get; }
     }
 }

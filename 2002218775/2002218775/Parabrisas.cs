@@ -8,6 +8,6 @@ namespace _2002218775
 {
     class Parabrisas
     {
-        public string NumSerie;
+        public string NumSerie { get; set; };
     }
 }

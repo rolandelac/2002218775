@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace _2002218775
 {
-    class Bus
+    public class Bus
     {
         TipoBus TipoBus = new TipoBus();
     
-        public Bus(int _numAsientos)
+        public Bus(int numAsientos)
 	    {
 
 	    }

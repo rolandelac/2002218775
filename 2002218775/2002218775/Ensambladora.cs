@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2002218775
 {
-    class Ensambladora
+    public class Ensambladora
     {
         List<Carro> _Carros;
 

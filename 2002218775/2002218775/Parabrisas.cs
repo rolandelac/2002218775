@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace _2002218775
 {
-    class Parabrisas
+    public class Parabrisas
     {
-        public string NumSerie { get; set; };
+        public string NumSerie { get; set; }
     }
 }

@@ -8,7 +8,7 @@ namespace _2002218775
 {
     class Llanta
     {
-        public string NumSerie { get; };
+        string NumSerie { get; }
 
     }
 }

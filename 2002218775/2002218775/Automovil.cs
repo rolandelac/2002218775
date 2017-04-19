@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace _2002218775
 {
-    class Automovil: Carro
+    public class Automovil
     {
-        public TipoAuto _tipoAuto;
+        TipoAuto TipoAuto;
         Volante _volante;
         Parabrisas _parabrisas;
         Propietario _propietario;
+        int numAsiento;
 
         public Automovil(Volante volante, Parabrisas parabrisas, int numAsientos, Propietario propietario, TipoAuto tipoAuto)
         {

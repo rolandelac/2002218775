@@ -8,8 +8,8 @@ namespace _2002218775
 {
     class Asiento
     {
-        private Cinturon _cinturon;
-        public String NumSerie { get; set; }
+        Cinturon _cinturon;
+        string NumSerie { get; set; }
 
         public Asiento()
         {

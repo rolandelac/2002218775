@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2002218775
 {
-    class Propietario
+    public class Propietario
     {
         public string DNI { set; get; }
         public string Nombres { set; get; }

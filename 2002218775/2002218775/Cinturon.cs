@@ -8,8 +8,8 @@ namespace _2002218775
 {
     public class Cinturon
     {
-        public string NumSerie;
-        public int Metraje;
+        string NumSerie;
+        int Metraje;
 
     }
 }
